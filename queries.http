@@ -1,0 +1,5 @@
+GET  /cinemaddict/movies HTTP/1.1
+Host: 16.ecmascript.pages.academy
+Authorization: Basic kTy9gIdsz2317rD
+
+###
